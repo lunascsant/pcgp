@@ -1,0 +1,18 @@
+Node26 6 11 10
+Output 26
+
+
+Node23 0 0 16
+Output 23
+
+
+Nao factivel
+
+Node29 4 15 16
+Output 29
+
+
+Node59 17 9 12
+Output 59
+
+
